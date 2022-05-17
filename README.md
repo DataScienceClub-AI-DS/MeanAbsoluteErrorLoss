@@ -1,9 +1,11 @@
 # MeanAbsoluteErrorLoss
 
-Mean absolute error (MAE) is a loss function used for regression. The loss is the mean overseen data of the absolute differences between true and predicted values.
----
+> Mean absolute error (MAE) is a loss function used for regression. 
+
+> The loss is the mean overseen data of the absolute differences between true and predicted values.
 
 ## Formula:
+![](https://github.com/DataScienceClub-AI-DS/Loss-Functions-Machine-Learning/blob/main/img/MAE.jpg)
 
 
 ## Task:
